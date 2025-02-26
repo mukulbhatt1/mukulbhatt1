@@ -3,9 +3,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ### 🚀 Featured Projects:
-- [🔐 CyberSec Analyzer](https://github.com/username/cybersec-analyzer) – A tool to detect vulnerabilities in web applications.
+- [🔐 Charity Site](https://github.com/mukulbhatt1/ShelterAidHub) –A simple charity website.
 ![GitHub Streak](https://streak-stats.demolab.com?user=username&theme=dark&hide_border=true)
-📫 How to reach me: [LinkedIn](https://linkedin.com/in/yourname) | [Website](https://yourwebsite.com)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mukul-bhatt-a9bb31285/) | [Facebook](https://www.facebook.com/profile.php?id=100095136885394)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dracula)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
